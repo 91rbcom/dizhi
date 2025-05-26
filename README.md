@@ -1,16 +1,24 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8" />
-    <link rel="stylesheet" href="https://cdn.uscdnjs.com/github/publish.css?2024" />
-    <title>91热爆视频|91RB|最新地址|最新可用地址</title>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta content='width=device-width, initial-scale=1.0, user-scalable=0' name='viewport' />
-    <meta name="keywords" content="热爆,热爆视频,国产自拍,自拍视频,成人视频,成人图片,成人自拍,最新地址" />
-    <meta name="description" content="欢迎访问91热爆视频|91RB地址发布页，为您提供优91热爆最新地址。" />
-</head>
-<body>
-    <div id="main"></div>
-</body>
-<script>const dateString = new Date().toISOString().split('T')[0];document.write('<script src="https://cdn.uscdnjs.com/github/publish.js?date=' + dateString + '"><\/script>')</script>
-</html>
+# 91热爆视频 (国际镜像) 
+------
+:sunglasses::sunglasses:地址发布:sunglasses::sunglasses:
+==
+------
+:heart: :point_right: 【地址一】 ：https://rb996.icu
+------
+:heart: :point_right: 【地址二】 ：https://rb110.icu
+------
+
+------
+:heart: :e-mail: 【邮箱联系方式】 ：91rbdz@gmail.com （以上地址无法访问请发送任意内容获取最新地址）
+------
+:sunglasses:重要提醒:sunglasses:收藏本页面，避免迷路！
+==
+------
+最近本站被无良网站劫持严重, Windows电脑、苹果电脑、苹果手机、安卓手机可以使用公共DNS避免网络运营商的劫持：
+==
+
+1. Cloudflare的私密DNS保护软件，软件地址：https://1.1.1.1
+
+2. 阿里云公共DNS，https://www.alidns.com
+
+如果以上公共DNS已开启成功，但网站还是不能打开，请关掉浏览器并重启，或进入无痕模式（因为浏览器会有DNS缓存）
